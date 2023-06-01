@@ -7,7 +7,7 @@ ORG:Ministry of Local Government Development;
 TITLE:Minister
 EMAIL;type=INTERNET;type=WORK;type=pref:ngakorming@kpkt.gov.my
 TEL;type=WORK;type=VOICE:+603 8891 5001
-item1.ADR;type=WORK;type=pref:;;Level 18\, Minister Office\nMinistry of Local Government Development\nNo. 51\, Persiaran Perdana, Precinct 4\n62100 Putrajaya\nMALAYSIA
+item1.ADR;type=WORK;type=pref:;;Level 18\,\nMinistry of Local Government Development\nNo. 51\, Persiaran Perdana, Precinct 4\n62100 Putrajaya\nMALAYSIA
 item1.X-ABADR:sg
 item2.URL;type=pref:kpkt.gov.my
 item2.X-ABLabel:_$!<HomePage>!$_
